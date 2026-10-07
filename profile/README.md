@@ -1,4 +1,4 @@
-![Cosmik banner](https://raw.githubusercontent.com/cosmik-labs/.github/main/profile/assets/cosmik-banner.png)
+![Cosmik banner](https://raw.githubusercontent.com/cosmiklabs/.github/main/profile/assets/cosmik-banner.png)
 
 # Cosmik
 
